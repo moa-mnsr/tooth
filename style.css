@@ -1,0 +1,13 @@
+@import 'reset.css';
+
+body {
+  background-color: beige;
+}
+
+section {
+  background-color: silver;
+  border: solid black 1px;
+  margin: 2em;
+  padding: 2em;
+  cursor: pointer;
+}
