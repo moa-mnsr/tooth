@@ -5,9 +5,26 @@ let hippoNumber = 0
 
 // holding the content for each line
 const hippos = [
-  { text: "third changed hippo!"},
-  { text: "first changed hippo!"},
-  { text: "second changed hippo!"},
+  { text: "not a portrait bare"},
+  { text: "჻"},
+  { text: "public waters"},
+  { text: "჻჻"},
+  { text: "of dying perfect"},
+  { text: "჻"},
+  { text: "how is care"},
+  { text: "at our sleep"},
+  { text: "჻"},
+  { text: "჻჻"},
+  { text: "it was good to have"},
+  { text: "a few"},
+  { text: "჻"},
+  { text: "sometimes learnt"},
+  { text: "a thing"},
+  { text: "჻"},
+  { text: "the room to realize"},
+  { text: "჻"},
+  { text: "჻჻"},
+  { text: "each as it yearns"},
 ]
 
 // picking the relevant tags
@@ -41,9 +58,29 @@ let zebraNumber = 0
 
 // holding the content for each line
 const zebras = [
-  { text: "third changed zebra!"},
-  { text: "first changed zebra!"},
-  { text: "second changed zebra!"},
+  { text: "but knew"},
+  { text: "own tooth"},
+  { text: "჻"},
+  { text: "჻჻"},
+  { text: "჻჻჻"},
+  { text: "We write about"},
+  { text: "the blue not needed"},
+  { text: "჻"},
+  { text: "And how sad to think"},
+  { text: "჻"},
+  { text: "჻჻"},
+  { text: "years’ glances"},
+  { text: "჻"},
+  { text: "჻჻"},
+  { text: "჻჻჻"},
+  { text: "჻჻჻჻"},
+  { text: "჻჻჻჻჻"},
+  { text: "of a neckline and distillery"},
+  { text: "჻"},
+  { text: "჻჻"},
+  { text: "but knew"},
+
+  
 ]
 
 // picking the relevant tags
