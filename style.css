@@ -1,5 +1,11 @@
 @import 'reset.css';
 
+html {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; /* Safari */
+  -moz-text-size-adjust: 100%; /* Firefox */
+}
+
 html, body {
   overflow: hidden;
 }
@@ -11,21 +17,19 @@ body {
   -webkit-user-select: none;
   display: flex;
   flex-direction: column;
-  height: 100vh;
-  justify-content: space-evenly;
-  align-content: center;
+  justify-content: center;
+  min-height: 100dvh;
   -mosz-user-select: none;
   -ms-user-select: none;
 }
 
 section {
     border: solid black 1px;
-    margin: 2em;
-    padding: 2em;
+    margin: 1em 2em;
     cursor: pointer;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 50vh;
+    min-height: 40dvh;
     text-align: center;
 }
